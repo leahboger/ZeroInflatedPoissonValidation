@@ -1,5 +1,11 @@
 <h1>Zero-Inflated Poisson - Model Validation Method Comparison</h1>
+Knitted Project Markdowns: <br />
+  
+  
+  - [Pipeline/Bootstrap and Comparison][1]
 
+
+[1]: https://leahboger.github.io/ZeroInflatedPoissonValidation/
 
 
 <h2>Description</h2>
